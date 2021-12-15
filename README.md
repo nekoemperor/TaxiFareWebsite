@@ -1,11 +1,21 @@
+# NY TaxiFare Website
 
-We saw in the previous challenge how to plug a website to our **Prediction API** in order to allow regular users to make prediction.
+## Table of contents
+* [About](#about)
+* [The website](#the-website)
+* [How To](#how-to)
+* [Create a streamlit website](#create-a-streamlit-website)
+* [Deploy](#deploy)
 
-Now let's create our own website ! 🔥
-
+## About
 We are going to use **Streamlit** which will allow us to create a website very easily and without any web development skills.
 
-## First, let's create another website project
+## The website
+Check out our website: [lung-pollution](https://lung-pollution.xyz/)
+<p align="center"><img src="https://github.com/dorien-er/lung_pollution/blob/master/lung_pollution/data/images/intro.gif" width="768"  />
+
+
+## How To
 
 We will create a new project directory for the code of our website.
 
