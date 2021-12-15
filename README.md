@@ -11,8 +11,8 @@
 We are going to use **Streamlit** which will allow us to create a website very easily and without any web development skills.
 
 ## The website
-Check out our website: [lung-pollution](https://lung-pollution.xyz/)
-<p align="center"><img src="https://github.com/dorien-er/lung_pollution/blob/master/lung_pollution/data/images/intro.gif" width="768"  />
+Check out our website: [NY-TaxiFare-Website](https://wagon-735-taxifarewebsite.herokuapp.com/)
+<p align="center"><img src="https://github.com/nekoemperor/TaxiFareWebsite/blob/master/images/nytaxifaremodel.gif" width="768"  />
 
 
 ## How To
